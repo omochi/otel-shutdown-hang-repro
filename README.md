@@ -29,3 +29,7 @@ Also, by increasing the log level as shown below, you can get hints about the si
 ```sh
 $ LOG_LEVEL=debug swift run run cmd
 ```
+
+This issue has been submitted as a report to the official repository.
+
+https://github.com/slashmo/swift-otel/issues/111
